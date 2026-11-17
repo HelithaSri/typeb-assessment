@@ -1,4 +1,4 @@
-# Hello World API
+# Hello World API - TypeB Assessment
 
 A simple REST API built using Java, Spring Boot, and Gradle.
 
